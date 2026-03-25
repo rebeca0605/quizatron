@@ -99,7 +99,7 @@ fun TelaResultadoScreen(modifier: Modifier = Modifier) {
 
         Spacer(modifier = Modifier.height(24.dp))
 
-        Button(modifier = Modifier.width(200.dp),
+        Button(modifier = Modifier.width(220.dp),
             onClick = { TODO() },
             colors = ButtonDefaults.buttonColors(
                 containerColor = Color(243, 212, 49, 255)
